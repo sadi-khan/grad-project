@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uChat</string>
+    <string name="add">Add</string>
+    <string name="chat_room_name">Chat room name?</string>
+    <string name="welcome_to_uchat">Welcome to uChat</string>
+    <string name="your_messages">Your Messages</string>
+    <string name="messages">Messages</string>
+    <string name="send">Send</string>
+</resources>
